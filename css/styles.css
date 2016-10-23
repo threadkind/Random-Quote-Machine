@@ -1,0 +1,46 @@
+* {
+  font-family: sans-serif;
+  text-decoration: none;
+}
+h1 {
+  text-align: center;
+  color: rgb(64, 153, 255);
+  margin-top: 10%;
+}
+.quotes {
+  background: rgb(24,209,228);
+  width: 60%;
+  height: auto;
+  margin: 0 auto;
+  color: white;
+  font-size: 2em;
+  padding: 2%;
+  border-radius: 20px;
+  margin-top: 4%;
+  text-shadow: 1px 1px rgb(89, 89, 89);
+}
+#submit {
+  display: block;
+  width: 70px;
+  margin: 20px;
+  float: left;
+  height: 24px;
+}
+.twitter-share-button {
+  margin: 20px;
+  width: 45px;
+  float: left;
+  background: rgb(64, 153, 255);
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  padding: 2px;
+  letter-spacing: 1.5px;
+  height: 15px;
+  vertical-align: text-top;
+  border-radius: 5px;
+}
+.buttons {
+  width: 300px;
+  margin: auto;
+}
